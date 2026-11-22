@@ -8,6 +8,7 @@ Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0), the fu
 - docs/characters/kuni/: the character Kuni (her name, look, personality and voice) and her pictures;
 - docs/locations/kitchen/: the kitchen of the manor and its picture;
 - docs/props/oracle/: the Oracle and its picture;
+- docs/random-stories/: the stories used as inspiration for the game;
 - the pictures generate.py makes from docs/art/example.md.
 
 Attribution. When you share or adapt this material, or make your own work with Kuni, credit it as
