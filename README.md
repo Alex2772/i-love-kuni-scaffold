@@ -16,6 +16,7 @@
 | [LESSONS.md](LESSONS.md) | чему научились: процесс с агентами, арт, вёрстка, сюжет, перевод |
 | [CLAUDE.md](CLAUDE.md) | шаблон инструкций агенту для своей игры |
 | [.claude/agents/reader.md](.claude/agents/reader.md) | агент-читатель с одним инструментом `Read`: не может подсмотреть в код |
+| [.claude/skills/mangaka](.claude/skills/mangaka) | правила манга-вёрстки с примерами: показывать, а не рассказывать, баблы, паузы, форма панелей |
 | [.claude/skills/reader-review](.claude/skills/reader-review) | слепая рецензия: читатели со случайными портретами и леттерер |
 | [.claude/skills/openrouter-image](.claude/skills/openrouter-image) | генерация и правка картинок через OpenRouter |
 | [.claude/skills/ask-character](.claude/skills/ask-character) | спросить своего ИИ-персонажа (любой OpenAI-совместимый API) |

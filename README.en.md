@@ -16,6 +16,7 @@ and marked unofficial.
 | [LESSONS.md](LESSONS.md) | what we learned: working with agents, art, lettering, story, translation |
 | [CLAUDE.md](CLAUDE.md) | a template of agent instructions for your own game |
 | [.claude/agents/reader.md](.claude/agents/reader.md) | a reader agent with only `Read`: it can't peek into the code |
+| [.claude/skills/mangaka](.claude/skills/mangaka) | manga lettering and paneling rules with examples: show don't tell, balloons, pauses, panel shapes (in Russian) |
 | [.claude/skills/reader-review](.claude/skills/reader-review) | blind review: readers with random personas, plus a letterer |
 | [.claude/skills/openrouter-image](.claude/skills/openrouter-image) | image generation and editing via OpenRouter |
 | [.claude/skills/ask-character](.claude/skills/ask-character) | ask your own AI character (any OpenAI-compatible API) |
